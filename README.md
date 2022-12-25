@@ -10,6 +10,7 @@ As a developer, he loves using computer technology and machine learning to build
 2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi
 3. [WordToken.com][WordTokenHome] @WordToken
 4. [WorkClient.com][WorkClientHome] @WorkClient
+5. [VirtualMascot.com][VirtualMascot] @VirtualMascot
 
 You can find him writing essays at [lem.esy.com][EsyProfile] and tweeting [@LemUhuru][TwitterProfile].
 
@@ -19,4 +20,5 @@ You can find him writing essays at [lem.esy.com][EsyProfile] and tweeting [@LemU
 [BankofDeFiHome]: https://www.bankofdefi.com
 [WorkClientHome]: https://www.workclient.com
 [WordTokenHome]: https://www.wordtoken.com
+[VirtualMascot]: https://www.VirtualMascot.com
 [TwitterProfile]: https://twitter.com/LemUhuru
