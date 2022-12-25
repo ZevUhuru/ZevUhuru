@@ -6,9 +6,15 @@ A born and raised NYC dev from Queens who recently moved to Miami, FL with his w
 As a developer, he loves using technology to make his life more efficient and if possible, earn some coins to escape the rat race (hasn't made it out yet). Check out some of the sick ass apps he constructed and actually uses daily to write essays, manage personal finances, and track work performance.
 
 
-1. Esy.com @EsyJournal
-2. BankofDeFi.com @BankofDeFi
-3. WorkClient.com @WorkClient
+1. [Esy.com][EsyHome] @EsyJournal
+2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi
+3. [WorkClient.com][WorkClientHome] @WorkClient
 
 
-You can find him on Tweeting @LemUhuru
+You can find him on Tweeting [@LemUhuru][TwitterProfile]
+
+
+[EsyHome]: https://www.esy.com
+[BankofDeFiHome]: https://www.bankofdefi.com
+[WorkClientHome]: https://www.workclient.com
+[TwitterProfile]: https://twitter.com/LemUhuru
