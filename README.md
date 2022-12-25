@@ -10,12 +10,11 @@ As a developer, he loves using technology to make his life more efficient and if
 2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi
 3. [WorkClient.com][WorkClientHome] @WorkClient
 
-You can find him writing essays at lem.esy.com.
-
-You can find him tweeting [@LemUhuru][TwitterProfile]
+You can find him writing essays at [lem.esy.com][EsyProfile] and tweeting [@LemUhuru][TwitterProfile].
 
 
 [EsyHome]: https://www.esy.com
 [BankofDeFiHome]: https://www.bankofdefi.com
 [WorkClientHome]: https://www.workclient.com
 [TwitterProfile]: https://twitter.com/LemUhuru
+[EsyProfile]: https://lem.esy.com
