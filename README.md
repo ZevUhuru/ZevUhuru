@@ -6,8 +6,8 @@ A born and raised NYC dev from Queens who recently moved to Miami, FL with his w
 As a developer, he loves using computer technology and machine learning to build practical applications that make his personal life more efficient. Check out some of the amazing apps he launched and actually uses daily to write essays, manage personal finances, and track work performance.
 
 
-1. [esy.com][EsyHome] @EsyJournal
-2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi (Developed to manage )
+1. [esy.com][EsyHome] @EsyJournal (Digital Journal)
+2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi (DeFi / TradFi Software)
 3. [WordToken.com][WordTokenHome] @WordToken (Conversational Analytics Platform)
 4. [WorkClient.com][WorkClientHome] @WorkClient (Self Micro-Management Software)
 5. [TextToNFT.com][TextToNFTHome] @TextToNFT 
