@@ -7,10 +7,10 @@ As a developer, he loves using computer technology and machine learning to build
 
 
 1. [esy.com][EsyHome] @EsyJournal
-2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi
-3. [WordToken.com][WordTokenHome] @WordToken
-4. [WorkClient.com][WorkClientHome] @WorkClient
-<!-- 5. [TextToNFT.com][TextToNFTHome] @TextToNFT  -->
+2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi (Developed to manage )
+3. [WordToken.com][WordTokenHome] @WordToken (Conversational Analytics Platform)
+4. [WorkClient.com][WorkClientHome] @WorkClient (Self Micro-Management Software)
+5. [TextToNFT.com][TextToNFTHome] @TextToNFT 
 
 You can find him writing essays at [lem.esy.com][EsyProfile] and tweeting [@LemUhuru][TwitterProfile].
 
