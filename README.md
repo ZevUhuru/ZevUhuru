@@ -12,6 +12,10 @@ As a developer, he loves using computer technology and machine learning to build
 4. [WorkClient.com][WorkClientHome] @WorkClient - ***Self Micro-Management Software***
 5. [TextToNFT.com][TextToNFTHome] @TextToNFT - ***Design NFTs using GPT-3***
 
+**Currently Reading**:
+* Hands on Machine Learning w/ SciKit Learn, Keras, & Tensor Flow
+
+
 You can find him writing essays at [lem.esy.com][EsyProfile] and tweeting [@LemUhuru][TwitterProfile].
 
 
