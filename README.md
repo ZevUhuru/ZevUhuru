@@ -3,27 +3,22 @@
 A born and raised NYC dev from Queens who recently moved to Miami, FL with his wife and 1 year old daughter to escape the cold winters but is now missing out on all of the great NYC food options :(, it's okay, his doordash bill is now manageable and his wife is an excellent chef!! :p
 
 
-As a developer, he loves using computer technology and machine learning to build practical applications that make his personal life more efficient. Check out some of the amazing apps he has launched and actually uses daily to write essays and manage personal finances, and track work performance.
+As a developer, he loves using machine learning to build practical applications that make his personal life more efficient. Check out some of the amazing apps he has launched and actually uses daily to write essays, manage personal finances, predict financial painpoints, and track / log usage of various natural language APIs.
 
 
 1. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal with Integrated NLP Solutions***
 2. [WordToken.com][WordTokenHome] @WordToken - ***NLP SASS Platform***
 3. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi / TradFi Software***
-<!-- 4. [WorkClient.com][WorkClientHome] @WorkClient - ***Self Micro-Management Software*** -->
-<!-- 5. [TextToNFT.com][TextToNFTHome] @TextToNFT - ***Design NFTs using GPT-3*** -->
 
 **Currently Reading**:
 * Hands on Machine Learning w/ SciKit Learn, Keras, & Tensor Flow
 
 
-You can find him writing essays at [lem.esy.com][EsyProfile] and tweeting [@LemUhuru][TwitterProfile].
+You can find him writing essays and educational content at [edu.esy.com][EsyEdu] and tweeting [@EsyJournal][TwitterProfile].
 
 
 [EsyHome]: https://www.esy.com
-[EsyProfile]: https://lem.esy.com
-[BankofDeFiHome]: https://www.bankofdefi.com
+[EsyEdu]: https://edu.esy.com
 [WordTokenHome]: https://www.wordtoken.com
-[WorkClientHome]: https://www.workclient.com
-[TextToNFTHome]: https://www.texttonft.com
-[VirtualMascot]: https://www.VirtualMascot.com
-[TwitterProfile]: https://twitter.com/LemUhuru
+[BankofDeFiHome]: https://www.bankofdefi.com
+
