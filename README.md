@@ -18,7 +18,7 @@ You can find him writing essays and educational content at [edu.esy.com][EsyEdu]
 
 
 [EsyHome]: https://www.esy.com
-[EsyProfile]: https://edu.esy.com
+[EsyEdu]: https://edu.esy.com
 [WordTokenHome]: https://www.wordtoken.com
 [BankofDeFiHome]: https://www.bankofdefi.com
 [TwitterProfile]: https://twitter.com/EsyJournal
