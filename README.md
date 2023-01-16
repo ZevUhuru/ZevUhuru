@@ -3,7 +3,7 @@
 A born and raised NYC dev from Queens who recently moved to Miami, FL with his wife and 1 year old daughter to escape the cold winters but is now missing out on all of the great NYC food options :(, it's okay, his doordash bill is now manageable and his wife is an excellent chef!! :p
 
 
-As a developer, he loves using machine learning to build practical applications that make his personal life more efficient. Check out some of the powerful applications he has launched and actually uses daily to write essays, manage personal finances, predict financial painpoints, and track the usage and activity of various natural language APIs integrated in his projects. ***(e.g, WordToken is used to evaluate the range of NLP API's used in Esy.)***
+As a developer, he loves using machine learning to build practical applications that make his personal life more efficient. Check out some of the powerful applications he has launched and actually uses daily to write essays, manage personal finances, predict financial painpoints, and track the usage and activity of various natural language APIs integrated in his projects. ***(e.g, WordToken is used to record and analyze the range of NLP API's used in Esy.)***
 
 
 1. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal with Integrated NLP Solutions***
