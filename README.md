@@ -7,8 +7,9 @@ As a developer, he loves using machine learning to build practical applications 
 
 
 1. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal with Integrated NLP Solutions***
-2. [WordToken.com][WordTokenHome] @WordToken - ***Conversational Analytics Platform***
-3. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid Fintech Software***
+2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid Fintech Software***
+
+<!-- 2. [WordToken.com][WordTokenHome] @WordToken - ***Conversational Analytics Platform*** -->
 
 **Currently Reading**:
 * Hands on Machine Learning w/ SciKit Learn, Keras, & Tensor Flow
