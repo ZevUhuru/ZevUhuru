@@ -7,7 +7,6 @@ As a developer, he loves using machine learning to build practical applications 
 
 
 1. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal with Integrated NLP Solutions***
-3. [WordToken.com][WordTokenHome] @WordToken - ***NLP Cloud Services***
 2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid Fintech Software***
 
 
@@ -15,11 +14,11 @@ As a developer, he loves using machine learning to build practical applications 
 * Hands on Machine Learning w/ SciKit Learn, Keras, & Tensor Flow
 
 
-You can find him writing essays and educational guides on Data Science at [esy.com/@datascience][EsyEdu].
+Checkout his AI Newsletter: [esy.com/@ai][EsyEdu]
 
 
 [EsyHome]: https://www.esy.com/
-[EsyEdu]: https://www.esy.com/@datascience/
+[EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
 [BankofDeFiHome]: https://www.bankofdefi.com
 [TwitterProfile]: https://twitter.com/EsyJournal
