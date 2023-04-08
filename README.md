@@ -16,7 +16,7 @@ As a developer, he loves using machine learning to build practical applications 
 * Artificial Intelligence: A Modern Approach 4th Edition
 
 
-Checkout his AI Newsletter: [esy.com/@ai][EsyEdu]
+AI Essays: [esy.com/@ai][EsyEdu]
 
 
 [EsyHome]: https://www.esy.com/
