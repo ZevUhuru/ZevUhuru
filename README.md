@@ -6,7 +6,7 @@ A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wif
 As a developer, I love using machine learning to build practical applications that make my personal life more efficient. You can check out some of the powerful applications I've launched and use daily in my personal life.
 
 
-1. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal with Integrated NLP Solutions***
+1. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal with Integrated NLP Solutions for Analyzing Writing Styles***
 2. [WordToken.com][WordTokenHome] @WordToken - ***AI Prompt Generator and Marketplace***
 <!-- 3. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid Fintech Software*** -->
 
