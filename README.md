@@ -7,7 +7,7 @@ As a developer, I love using machine learning to build practical applications th
 
 
 1. [esy.com][EsyHome] @EsyJournal - ***Digital Journal with Integrated NLP Solutions for Analyzing Writing Styles***
-2. [WordToken.com][WordTokenHome] @WordToken - ***AI Prompt Generator and Marketplace***
+2. [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Generator and Marketplace***
 <!-- 3. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid Fintech Software*** -->
 
 
@@ -16,7 +16,7 @@ As a developer, I love using machine learning to build practical applications th
 * Artificial Intelligence: A Modern Approach 4th Edition
 
 
-AI Essays: [esy.com/@ai][EsyEdu]
+AI Newsletter: [esy.com/@ai][EsyEdu]
 
 
 [EsyHome]: https://www.esy.com/
