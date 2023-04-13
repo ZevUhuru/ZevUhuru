@@ -3,7 +3,7 @@
 A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1 year old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p
 
 
-As a developer, I love using machine learning to build practical applications that adds value to my personal life. I've listed the ones I'm most proud of and that I use frequently below. In addition, I write a weekly AI Newsletter at [esy.com/@ai][EsyEdu]
+As a developer, I love using machine learning to build practical applications that add value to my personal life. I've listed the ones I'm most proud of and that I use frequently below. In addition, I write a weekly AI Newsletter at [esy.com/@ai][EsyEdu]
 
 
 1. [esy.com][EsyHome] @EsyJournal - ***Digital Journal with Integrated NLP Solutions for Analyzing Writing Styles***
