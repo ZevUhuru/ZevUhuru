@@ -8,7 +8,7 @@ As a developer, I love using machine learning to build practical applications th
 
 1. [esy.com][EsyHome] @EsyJournal - ***Digital Journal & AI Writing Assistant***
 2. [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
-
+3. [bankofdeFi.com][BankofDeFi] @BankofDeFi - ***DeFi Newsletter & Blog***
 
 **Currently Reading**:
 * Hands on Machine Learning w/ SciKit Learn, Keras, & Tensor Flow
