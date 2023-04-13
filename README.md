@@ -7,7 +7,7 @@ As a developer, I love using machine learning to build practical applications th
 
 
 1. [esy.com][EsyHome] @EsyJournal - ***Digital Journal & AI Writing Assistant***
-2. [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Newsletter & Tutorial Site***
+2. [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
 
 
 **Currently Reading**:
