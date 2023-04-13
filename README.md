@@ -11,7 +11,9 @@ As a developer, I love using machine learning to build practical applications th
 2. [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
 3. [bankofdeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Newsletter & Blog***
 
-**Currently Reading**:
+
+
+## Reading
 * Hands on Machine Learning w/ SciKit Learn, Keras, & Tensor Flow
 * Artificial Intelligence: A Modern Approach 4th Edition
 
