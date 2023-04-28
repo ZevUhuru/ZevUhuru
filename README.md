@@ -8,7 +8,7 @@ As a developer, I love using machine learning to build practical applications th
 ## Projects
 
 1. [esy.com][EsyHome] @EsyJournal - ***Digital Journal & AI Writing Assistant***
-2. [bankofdeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Newsletter & Blog***
+2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Newsletter & Blog***
 
 
 
