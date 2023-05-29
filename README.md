@@ -9,7 +9,7 @@ As a developer, I build practical applications that add REAL value to my persona
 
 1. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant***
 2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Newsletter & Blog***
-
+3. [WordToken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
 
 
 ## Newsletters
