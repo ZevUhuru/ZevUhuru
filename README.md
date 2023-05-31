@@ -13,7 +13,7 @@ As a developer, I build practical applications that add REAL value to my persona
 
 
 ## Newsletters
-1. [Esy.com/@journal][EsyHome]
+1. [Esy.com/@journal][EsyJournal]
 
 
 ## Reading
@@ -23,6 +23,7 @@ As a developer, I build practical applications that add REAL value to my persona
 
 
 [EsyHome]: https://www.esy.com/
+[EsyJournal]: https://www.esy.com/@journal
 [EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
 [BankofDeFiHome]: https://www.bankofdefi.com
