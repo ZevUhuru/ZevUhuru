@@ -15,7 +15,7 @@ As a developer, I build practical applications that add REAL value to my persona
 
 ## Newsletters
 1. [pro.dev/newsletter][ProDevNews]
-2. [Esy.com/@journal][EsyJournal]
+2. [esy.com/@journal][EsyJournal]
 
 
 ## Reading
