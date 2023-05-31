@@ -7,10 +7,10 @@ As a developer, I build practical applications that add REAL value to my persona
 
 ## Projects
 
-1. [pro.dev][ProDev] - *** Portfolio Site && Tech Newsletter *** 
-2. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant*** 
-3. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Newsletter & Blog***
-4. [WordToken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
+- [pro.dev][ProDev] - ***Portfolio Site && Tech Newsletter*** 
+  - [Esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant*** 
+  - [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Newsletter & Blog***
+  - [WordToken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
 
 
 ## Newsletters
