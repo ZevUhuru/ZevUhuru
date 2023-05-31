@@ -7,13 +7,15 @@ As a developer, I build practical applications that add REAL value to my persona
 
 ## Projects
 
-1. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant***
-2. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Newsletter & Blog***
-3. [WordToken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
+1. [pro.dev][ProDev] - *** Portfolio Site && Tech Newsletter *** 
+2. [Esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant*** 
+3. [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Newsletter & Blog***
+4. [WordToken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
 
 
 ## Newsletters
-1. [Esy.com/@journal][EsyJournal]
+1. [pro.dev][ProDev]
+2. [Esy.com/@journal][EsyJournal]
 
 
 ## Reading
@@ -28,3 +30,4 @@ As a developer, I build practical applications that add REAL value to my persona
 [WordTokenHome]: https://www.wordtoken.com
 [BankofDeFiHome]: https://www.bankofdefi.com
 [TwitterProfile]: https://twitter.com/EsyJournal
+[ProDev]: https://www.pro.dev
