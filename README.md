@@ -14,7 +14,7 @@ As a developer, I build practical applications that add REAL value to my persona
 
 
 ## Newsletters
-1. [pro.dev][ProDev]
+1. [pro.dev/newsletter][ProDevNews]
 2. [Esy.com/@journal][EsyJournal]
 
 
@@ -31,3 +31,4 @@ As a developer, I build practical applications that add REAL value to my persona
 [BankofDeFiHome]: https://www.bankofdefi.com
 [TwitterProfile]: https://twitter.com/EsyJournal
 [ProDev]: https://www.pro.dev
+[ProDevNews]: https://www.pro.dev/newsletter
