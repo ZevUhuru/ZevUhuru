@@ -11,7 +11,7 @@ As a developer, I build practical applications that add REAL value to my persona
   - [Esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant*** 
   - [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Newsletter & Blog***
   - [WordToken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
-
+  - [PKR.bet][PKR]  - ***Poker App***
 
 ## Newsletters
 1. [pro.dev/newsletter][ProDevNews]
@@ -32,3 +32,4 @@ As a developer, I build practical applications that add REAL value to my persona
 [TwitterProfile]: https://twitter.com/EsyJournal
 [ProDev]: https://www.pro.dev
 [ProDevNews]: https://www.pro.dev/newsletter
+[PKR]: https://www.pkr.bet
