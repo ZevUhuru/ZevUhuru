@@ -8,10 +8,10 @@ As a developer, I build practical applications that add REAL value to my persona
 ## Projects
 
 - [pro.dev][ProDev] - ***My Portfolio && Tech Newsletter*** 
-  - [Esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant*** 
-  - [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid TradFi/DeFi App with OpenAI Integration***
+  - [Esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant***
   - [WordToken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
-  - [PKR.bet][PKR]  - ***Poker App***
+<!--   - [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid TradFi/DeFi App with OpenAI Integration***
+  - [PKR.bet][PKR]  - ***Poker App*** -->
 
 ## Newsletters
 1. [pro.dev/newsletter][ProDevNews]
