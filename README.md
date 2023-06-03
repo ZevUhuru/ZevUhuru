@@ -14,7 +14,7 @@ As a developer, I build practical applications that add REAL value to my persona
   - [PKR.bet][PKR]  - ***Poker App*** -->
 
 ## Newsletters
-1. [esy.com/@journal][EsyJournal]
+- [esy.com/@journal][EsyJournal]
 
 
 ## Reading
