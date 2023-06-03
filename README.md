@@ -9,7 +9,7 @@ As a developer, I build practical applications that add REAL value to my persona
 
 - [pro.dev][ProDev] - ***My Portfolio && Tech Newsletter*** 
   - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant***
-  - [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
+<!--   - [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials*** -->
 <!--   - [BankofDeFi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid TradFi/DeFi App with OpenAI Integration***
   - [PKR.bet][PKR]  - ***Poker App*** -->
 
