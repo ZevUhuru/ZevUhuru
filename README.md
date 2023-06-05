@@ -17,7 +17,7 @@ I build full stack, web applications that provide REAL value using JS and Python
 - [esy.com/@journal][EsyJournal] - ***Weekly Newsletter on Tech / AI***
 
 
-## Recently Read
+## Library
 * Hands on Machine Learning w/ SciKit Learn, Keras, & Tensor Flow
 * Artificial Intelligence: A Modern Approach 4th Edition
 
