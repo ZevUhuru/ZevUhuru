@@ -13,8 +13,8 @@ I build full stack, web applications that provide REAL value using JS and Python
 <!--  - [pkr.bet][PKR]  - ***Poker App*** -->
 <!--   - [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials*** -->
 
-## AI / Tech Journal 
-- [esy.com/@journal][EsyJournal]
+## Journals 
+- [esy.com/@journal][EsyJournal] - Ai / Tech
 
 
 ## Reading
