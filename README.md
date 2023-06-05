@@ -14,7 +14,7 @@ I build full stack, web applications that provide REAL value using JS and Python
 <!--   - [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials*** -->
 
 ## Journals 
-- [esy.com/@journal][EsyJournal] - *** Weekly Newsletter on Tech / AI***
+- [esy.com/@journal][EsyJournal] - ***Weekly Newsletter on Tech / AI***
 
 
 ## Reading
