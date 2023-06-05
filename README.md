@@ -5,8 +5,6 @@
 
 I build full stack, web applications that provide REAL value using JS and Python.
 
-I write essays as a hobby. 
-
 ## Projects
 
 <!-- - [pro.dev][ProDev] - ***My Portfolio && Tech Newsletter***  -->
