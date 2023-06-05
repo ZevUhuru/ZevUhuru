@@ -4,7 +4,8 @@
 
 
 I build full stack, web applications that provide REAL value using JS and Python.
-I like to write essays as a hobby. 
+
+I write essays as a hobby. 
 
 ## Projects
 
