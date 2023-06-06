@@ -9,9 +9,10 @@ I build full stack, web applications that provide REAL value using JS and Python
 
 <!-- - [pro.dev][ProDev] - ***My Portfolio && Tech Newsletter***  -->
  - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Essay Writing Assistant***
- - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid TradFi/DeFi App with OpenAI Integration***
+ - [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials***
+<!--  - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid TradFi/DeFi App with OpenAI Integration*** -->
 <!--  - [pkr.bet][PKR]  - ***Poker App*** -->
-<!--   - [wordtoken.com][WordTokenHome] @WordToken - ***AI Prompt Guides & Tutorials*** -->
+
 
 ## Journals 
 - [esy.com/@journal][EsyJournal] - ***Weekly Newsletter on Tech / AI***
