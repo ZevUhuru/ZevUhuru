@@ -15,7 +15,7 @@ I build full stack, web applications that provide REAL value using JS and Python
 
 
 ## Journals 
-- [esy.com/@journal][EsyJournal] - ***Weekly Newsletter on Tech / AI***
+- [esy.com/@journal][EsyJournal] - ***Daily Journal && Weekly Newsletter on Tech / AI***
 
 
 ## Library
