@@ -16,7 +16,7 @@ I like to write, produce videos, and study ML.
 
 ## Journals 
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [esy.com/@ai][EsyJournal] - ***Daily Journal && Weekly Newsletter on Tech / AI***
+- [esy.com/@ai][EsyAi] - ***Daily Journal && Weekly Newsletter on Tech / AI***
 
 
 ## Library
@@ -48,6 +48,7 @@ I like to write, produce videos, and study ML.
 
 [EsyHome]: https://www.esy.com/
 [EsyJournal]: https://www.esy.com/@journal
+[EsyAi]: https://www.esy.com/@ai
 [EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
 [BankofDeFiHome]: https://www.bankofdefi.com
