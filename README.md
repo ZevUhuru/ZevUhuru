@@ -7,14 +7,15 @@ I build full stack, web applications that provide REAL value using JS and Python
 
 ## Projects
 
-<!-- - [pro.dev][ProDev] - ***My Portfolio && Tech Newsletter***  -->
+ - [pro.tv][ProDev] - ***Pro Tech Videos***  
  - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Research Software***
-<!--  - [wordtoken.com][WordTokenHome] @WordToken - ***Conversational Analysis Platform w/ ChatGPT Integration*** -->
+ - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface and Prompt Engineering Resources***
 <!--  - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid TradFi/DeFi App with OpenAI Integration*** -->
 <!--  - [pkr.bet][PKR]  - ***Poker App*** -->
 
 
 ## Journals 
+- [esy.com/@journal][EsyJournal] - ***Journal on all things Writing***
 - [esy.com/@journal][EsyJournal] - ***Daily Journal && Weekly Newsletter on Tech / AI***
 
 
