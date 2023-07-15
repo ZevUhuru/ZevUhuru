@@ -7,7 +7,7 @@ I build full stack, web applications that provide REAL value using JS and Python
 
 ## Projects
 
- - [pro.tv][ProDev] - ***Pro Tech Videos***  
+ - [pro.tv][ProTV] - ***Pro Tech Videos***  
  - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Research Software***
  - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface and Prompt Engineering Resources***
 <!--  - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***Hybrid TradFi/DeFi App with OpenAI Integration*** -->
@@ -52,6 +52,6 @@ I build full stack, web applications that provide REAL value using JS and Python
 [WordTokenHome]: https://www.wordtoken.com
 [BankofDeFiHome]: https://www.bankofdefi.com
 [TwitterProfile]: https://twitter.com/EsyJournal
-[ProDev]: https://www.pro.dev
-[ProDevNews]: https://www.pro.dev/newsletter
+[ProTV]: https://www.pro.tv
+[ProTVNews]: https://www.pro.tv/newsletter
 [PKR]: https://www.pkr.bet
