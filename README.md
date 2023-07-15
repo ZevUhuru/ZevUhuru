@@ -15,7 +15,7 @@ I like to write, produce videos, and study ML.
 
 
 ## Journals 
-- [esy.com/@journal][EsyJournal] - ***Journal on all things Writing***
+<!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 - [esy.com/@ai][EsyJournal] - ***Daily Journal && Weekly Newsletter on Tech / AI***
 
 
