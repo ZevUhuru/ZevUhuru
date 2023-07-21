@@ -11,6 +11,7 @@ I like to write, produce tech videos, and study ML.
  - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Research Software***
  - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface and Prompt Engineering Resources***
  - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Research Journal***
+<!-- [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars for your brand*** -->
 <!--  - [pkr.bet][PKR]  - ***Poker App*** -->
 
 
