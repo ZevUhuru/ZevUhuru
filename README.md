@@ -14,7 +14,7 @@ I like to write, produce tech videos, and study ML.
 <!--  - [pkr.bet][PKR]  - ***Poker App*** -->
 
 
-## Journals 
+## Writings 
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 - [esy.com/@ai][EsyAi] - ***Daily Journal && Weekly Newsletter on Ai***
 
