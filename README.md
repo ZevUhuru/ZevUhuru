@@ -53,6 +53,7 @@ I like to write, produce tech videos, and study ML.
 [EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
 [BankofDeFiHome]: https://www.bankofdefi.com
+[VirtualMascotHome]: https://www.VirtualMascot.com
 [TwitterProfile]: https://twitter.com/EsyJournal
 [ProTV]: https://www.pro.tv
 [ProTVNews]: https://www.pro.tv/newsletter
