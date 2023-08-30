@@ -1,18 +1,19 @@
 # Hi and Welcome, I'm Lem. 
 
-<!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1 year old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
+<!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1-year-old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
 
 
 I like to write, produce tech videos, and study ML.
 
 ## Projects
 
- - [pro.tv][ProTV] - ***Pro Tech Videos***  
+ - [pro.tv][ProTV] - ***Pro Tech Videos***
  - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Research Software***
  - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Research Journal***
-<!-- - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface and Prompt Engineering Resources*** -->
+
+<!-- [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface and Prompt Engineering Resources*** -->
 <!-- [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars + LLMs for your brand*** -->
-<!--  - [pkr.bet][PKR]  - ***Poker App*** -->
+<!-- [pkr.bet][PKR]  - ***Poker App*** -->
 
 
 ## Journals 
