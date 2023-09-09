@@ -10,7 +10,7 @@ I like to write, produce tech videos, and study ML.
  - [pro.tv][ProTV] - ***Pro Tech Videos***
  - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Research Software***
  - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface and Prompt Engineering Resources*** 
- 
+ - [Orgolytics.com][OrgolyticsHome] @Orgolytics - ***Use LLMs to Evaluate Your Health Data***
 <!-- [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Research Journal*** -->
 <!-- [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars + LLMs for your brand*** -->
 <!-- [pkr.bet][PKR]  - ***Poker App*** -->
@@ -53,6 +53,7 @@ I like to write, produce tech videos, and study ML.
 [EsyAi]: https://www.esy.com/@ai
 [EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
+[OrgolyticsHome]: https://www.orgolytics.com
 [BankofDeFiHome]: https://www.bankofdefi.com
 [VirtualMascotHome]: https://www.VirtualMascot.com
 [TwitterProfile]: https://twitter.com/EsyJournal
