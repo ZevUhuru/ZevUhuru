@@ -11,9 +11,9 @@ I like to write, produce tech videos, and study ML.
  - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Research Software***
  - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface and Prompt Engineering Resources*** 
  - [orgolytics.com][OrgolyticsHome] @Orgolytics - ***Use LLMs to Evaluate Your Health Data***
-<!-- [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Research Journal*** -->
-<!-- [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars + LLMs for your brand*** -->
-<!-- [pkr.bet][PKR]  - ***Poker App*** -->
+ - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi Research Journal*** 
+ - [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars + LLMs for your brand***
+ - [pkr.bet][PKR]  - ***Poker App***
 
 
 ## Journals 
