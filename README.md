@@ -8,8 +8,8 @@ I like to write, produce tech videos, and study ML.
 ## Portfolio
 
 
-- [lazy.dev][LazyDevHome] - ***Dev blog and portfolio site***
-  - [esy.com][EsyHome] - ***Digital Journal & Research Software***
+- [lazy.dev][LazyDevHome] - ***Dev blog and portfolio site.***
+  - [esy.com][EsyHome] - ***Digital journal and research software.***
   - [pro.tv][ProTV] - ***Pro Tech Videos***
   - [clip.art][ClipArtHome] - ***Index for Free Ai Clip Art***
  
