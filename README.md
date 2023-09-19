@@ -66,3 +66,4 @@ I like to write, produce tech videos, and study ML.
 [ProTV]: https://www.pro.tv
 [ProTVNews]: https://www.pro.tv/newsletter
 [PKR]: https://www.pkr.bet
+[ClipArtHome]: https://www.clip.art/
