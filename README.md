@@ -10,6 +10,7 @@ I like to write, produce tech videos, and study ML.
 
  - [pro.tv][ProTV] - ***Pro Tech Videos***
  - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Research Software***
+ - [clip.art][ClipArtHome] - ***Index for Free Ai Clip Art***
  - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources***
 
  
