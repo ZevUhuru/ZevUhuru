@@ -5,7 +5,7 @@
 
 I like to write, produce tech videos, and study ML.
 
-## Projects
+## Portfolio
 
 
 - [lazy.dev][LazyDevHome] - ***Dev Blog / Portfolio Site***
