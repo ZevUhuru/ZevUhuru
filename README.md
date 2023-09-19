@@ -7,18 +7,19 @@ I like to write, produce tech videos, and study ML.
 
 ## Projects
 
-
- - [pro.tv][ProTV] - ***Pro Tech Videos***
- - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Research Software***
- - [clip.art][ClipArtHome] - ***Index for Free Ai Clip Art***
- - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources***
+ - [lazy.dev][LazyDevHome] - ***Dev Blog / Portfolio Site***
+  - [pro.tv][ProTV] - ***Pro Tech Videos***
+  - [esy.com][EsyHome] @EsyJournal - ***Digital Journal & Research Software***
+  - [clip.art][ClipArtHome] - ***Index for Free Ai Clip Art***
+ 
 
  
 <!--
  - [orgolytics.com][OrgolyticsHome] @Orgolytics - ***Use LLMs to Evaluate Your Health Data***
  - [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars + LLMs for your brand***
  - [pkr.bet][PKR]  - ***Poker App***  
- - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi banking*** -->
+ - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi banking*** 
+ - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources*** -->
 
 
 
