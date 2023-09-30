@@ -13,11 +13,10 @@ I like to write, produce tech videos, and study ML.
 
 
 - [lazy.dev][LazyDevHome] - ***Dev blog and portfolio site.***
-  - [esy.com][EsyHome] - ***Digital journal and research software.***
   - [pro.tv][ProTV] - ***Pro tech videos***
+  - [esy.com][EsyHome] - ***Digital journal and research software.***
   - [clip.art][ClipArtHome] - ***The Largest Collection of Ai Generated Clip Art***
   - [wordtoken.com][WordTokenHome]  - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources***
- 
 <!--
  - [orgolytics.com][OrgolyticsHome] @Orgolytics - ***Use LLMs to Evaluate Your Health Data***
  - [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars + LLMs for your brand***
