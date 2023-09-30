@@ -8,6 +8,7 @@ I like to write, produce tech videos, and study ML.
 - [fubosportsnetwork.com][FSNHome] - ***I developed fuboTV Homegrown Sports Network Site from Scratch***
 - [fubo.tv/news][FuboNews] - ***I developed and launched fuboTV News using Ghost from scratch***
 - [ir.fubo.tv][FuboIR] - ***I selected and managed the 3rd party development company and coordinated fuboTV's C-Level executives and other stakeholders to launch ir.fubo.tv from scratch.***
+- - [SellUsYourCar.com][SUYC] - ***Previously, a fully standalone site and lead generator onboarded and prompted users for vehicle information to quote and sell their cars to Vroom.com***
 ## Personal Portfolio (Dev, Copy, & Design)
 
 
@@ -78,4 +79,4 @@ I like to write, produce tech videos, and study ML.
 [FSNHome]: https://www.fubosportsnetwork.com
 [FuboNews]: https://www.fubo.tv/news
 [FuboIR]: https://ir.fubo.tv
-
+[SUYC]: https://www.sellusyourcar.com
