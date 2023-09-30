@@ -4,8 +4,10 @@
 
 
 I like to write, produce tech videos, and study ML.
+## Corporate Portfolio
+- [fubosportsnetwork.com][FSNHome] - ***I developed fuboTV Homegrown Sports Network Site from Scratch***
 
-## Portfolio (Dev, Copy, & Design)
+## Personal Portfolio (Dev, Copy, & Design)
 
 
 - [lazy.dev][LazyDevHome] - ***Dev blog and portfolio site.***
@@ -71,4 +73,6 @@ I like to write, produce tech videos, and study ML.
 [PKR]: https://www.pkr.bet
 [ClipArtHome]: https://www.clip.art/
 [LazyDevHome]: https://www.lazy.dev/
+
+[FSNHome]: https://www.fubosportsnetwork.com
 
