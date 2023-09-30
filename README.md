@@ -13,7 +13,7 @@ I like to write, produce tech videos, and study ML.
   - [pro.tv][ProTV] - ***Pro tech videos***
   - [clip.art][ClipArtHome] - ***The Largest Collection of Ai Generated Clip Art***
   - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources***
-
+  - [workclient.com][WordTokenHome] @WordToken - ***Self micro-management solution with LLM Integration***
  
 <!--
  - [orgolytics.com][OrgolyticsHome] @Orgolytics - ***Use LLMs to Evaluate Your Health Data***
