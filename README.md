@@ -5,7 +5,7 @@
 
 I like to write, produce tech videos, and study ML.
 
-## Portfolio (Dev, Copy, & Design Work)
+## Portfolio (Dev, Copy, & Design)
 
 
 - [lazy.dev][LazyDevHome] - ***Dev blog and portfolio site.***
