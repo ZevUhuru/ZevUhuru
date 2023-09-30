@@ -79,4 +79,4 @@ I like to write, produce tech videos, and study ML.
 [FSNHome]: https://www.fubosportsnetwork.com
 [FuboNews]: https://www.fubo.tv/news
 [FuboIR]: https://ir.fubo.tv
-[SUYC]: https://sellusyourcar.com
+[SUYC]: https://www.sellusyourcar.com
