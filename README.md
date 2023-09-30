@@ -6,7 +6,7 @@
 I like to write, produce tech videos, and study ML.
 ## Corporate Portfolio
 - [fubosportsnetwork.com][FSNHome] - ***I developed fuboTV Homegrown Sports Network Site from Scratch***
-- [fubo.tv/news][FuboNews] - ***I developed and launched fuboTV News using Ghost***
+- [fubo.tv/news][FuboNews] - ***I developed and launched fuboTV News using Ghost from scratch***
 - [ir.fubo.tv][FuboIR] - ***I selected and managed the 3rd party development company and coordinated fuboTV's C-Level executives and other stakeholders to launch ir.fubo.tv from scratch.***
 ## Personal Portfolio (Dev, Copy, & Design)
 
