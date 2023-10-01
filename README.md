@@ -76,6 +76,7 @@ I like to write, produce tech videos, and study ML.
 [PKR]: https://www.pkr.bet
 [ClipArtHome]: https://www.clip.art/
 [LazyDevHome]: https://www.lazy.dev/
+[AbueloHome]: https://www.abuelo.ai
 
 [FSNHome]: https://www.fubosportsnetwork.com
 [FuboNews]: https://www.fubo.tv/news
