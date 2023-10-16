@@ -18,6 +18,7 @@ I like to write, produce tech videos, and study ML.
   - [clip.art][ClipArtHome] - ***The Largest Collection of Ai Generated Clip Art***
   - [wordtoken.com][WordTokenHome]  - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources***
   - [workclient.com][WorkClientHome] - ***Self micro-management software and dynamic resume***
+  - [bankofdefi.com][BankHome] - ***Financial Management Software***
 
 <!--
  - [orgolytics.com][OrgolyticsHome] @Orgolytics - ***Use LLMs to Evaluate Your Health Data***
@@ -25,6 +26,7 @@ I like to write, produce tech videos, and study ML.
  - [pkr.bet][PKR]  - ***Poker App***  
  - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi banking*** 
  - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources*** -->
+ 
 
 
 ## Boilerplate
@@ -82,3 +84,4 @@ I like to write, produce tech videos, and study ML.
 [FuboNews]: https://www.fubo.tv/news
 [FuboIR]: https://ir.fubo.tv
 [SUYC]: https://www.sellusyourcar.com
+[BankHome]: https://www.bankofdefi.com 
