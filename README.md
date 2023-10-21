@@ -31,9 +31,9 @@ I like to write, produce tech videos, and study ML.
 
 ## Boilerplate
 
-## Ai Research Journal
+## Ai & Tech Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [esy.com/@ai][EsyAi] - ***Daily Journal && Weekly Newsletter on Ai***
+- [news.esy.com][EsyAi] - ***Daily Journal && Weekly Newsletter on Ai***
 
 
 ## Library
@@ -65,7 +65,7 @@ I like to write, produce tech videos, and study ML.
 
 [EsyHome]: https://www.esy.com/
 [EsyJournal]: https://www.esy.com/@journal
-[EsyAi]: https://www.esy.com/@ai
+[EsyAi]: https://news.esy.com
 [EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
 [WorkClientHome]: https://www.workclient.com
