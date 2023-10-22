@@ -33,7 +33,7 @@ I like to write, produce tech videos, and study ML.
 
 ## esy Journal | Tech & Ai
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [journal.esy.com][EsyAi] - ***I edit and write a daily journal on Science, Tech, and Ai subject matter***
+- [journal.esy.com][EsyAi] - ***I edit and contribute to esy Journal, a daily journal covering Science, Tech, and Ai***
 
 
 ## Library
