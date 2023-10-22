@@ -31,9 +31,9 @@ I like to write, produce tech videos, and study ML.
 
 ## Boilerplate
 
-## Ai & Tech Newsletter
+## Ai & Tech Journal
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [news.esy.com][EsyAi] - ***Weekly Newsletter on Ai & Tech***
+- [journal.esy.com][EsyAi] - ***Weekly Newsletter on Ai & Tech***
 
 
 ## Library
