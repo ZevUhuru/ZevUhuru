@@ -13,7 +13,7 @@ I like to write, produce tech videos, and study ML.
 
 
 - [lazy.dev][LazyDevHome] - ***Dev blog and portfolio site.***
-  - [esy.com][EsyHome] - ***Digital journal and research software.***
+  - [esy.com][EsyHome] - ***Research Software.***
   - [clip.art][ClipArtHome] - ***The Largest Collection of Ai Generated Clip Art***
   - [pro.tv][ProTV] - ***Pro tech videos***
 
