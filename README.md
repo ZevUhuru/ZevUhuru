@@ -16,11 +16,12 @@ I like to write, produce tech videos, and study ML.
   - [pro.tv][ProTV] - ***Pro tech videos***
   - [esy.com][EsyHome] - ***Digital journal and research software.***
   - [clip.art][ClipArtHome] - ***The Largest Collection of Ai Generated Clip Art***
+
+
+<!--
   - [wordtoken.com][WordTokenHome]  - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources***
   - [workclient.com][WorkClientHome] - ***Self micro-management software and dynamic resume***
   - [bankofdefi.com][BankHome] - ***Financial Management Software***
-
-<!--
  - [orgolytics.com][OrgolyticsHome] @Orgolytics - ***Use LLMs to Evaluate Your Health Data***
  - [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars + LLMs for your brand***
  - [pkr.bet][PKR]  - ***Poker App***  
