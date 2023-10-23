@@ -54,7 +54,7 @@ I love technology and research.
 
 [EsyHome]: https://www.esy.com/
 [EsyJournal]: https://www.esy.com/@journal
-[EsyAi]: https://news.esy.com
+[EsyAi]: https://journal.esy.com
 [EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
 [WorkClientHome]: https://www.workclient.com
