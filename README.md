@@ -3,7 +3,7 @@
 <!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1-year-old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
 
 
-I like to write, produce tech videos, and study ML.
+I love technology and research.
 ## Corporate Portfolio
 - [fubosportsnetwork.com][FSNHome] - ***I developed fuboTV's homegrown sports network streaming site from scratch using GatsbyJS***
 - [fubo.tv/news][FuboNews] - ***I developed and launched fuboTV News using Ghost CMS from scratch***
