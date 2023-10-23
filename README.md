@@ -28,7 +28,7 @@ I like to write, produce tech videos, and study ML.
  - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources*** -->
  
 
-## esy Journal | Tech & Ai
+## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 - [journal.esy.com][EsyAi] - ***I maintain esy Journal, a tech publication***
 
