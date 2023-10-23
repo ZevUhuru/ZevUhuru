@@ -33,14 +33,6 @@ I like to write, produce tech videos, and study ML.
 - [journal.esy.com][EsyAi] - ***I maintain esy Journal, a tech publication***
 
 
-## Library
-* Hands on Machine Learning w/ SciKit Learn, Keras, & Tensor Flow
-* Artificial Intelligence: A Modern Approach 4th Edition
-
-
-
-
-
 ## Technologies
 
 ![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
