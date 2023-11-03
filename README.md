@@ -16,6 +16,7 @@ I love technology and research.
   - [esy.com][EsyHome] - ***Research Software.***
   - [clip.art][ClipArtHome] - ***Ecommerce platform selling Ai-generated clip art.***
   - [pro.tv][ProTV] - ***Professional tech videos.***
+  - [bankofdefi.com][BankHome] - ***TradFi+DeFi Management.***
 
 <!--
   - [wordtoken.com][WordTokenHome]  - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources***
