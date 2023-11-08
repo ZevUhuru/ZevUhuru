@@ -34,7 +34,7 @@ I love technology and research.
 
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [journal.esy.com][EsyAi] - ***I maintain esy Journal, a tech publication.***
+- [journal.esy.com][EsyAi] - ***I maintain esy Journal, where I publish writings on Ai + Research Methods.***
 
 
 ## Technologies
