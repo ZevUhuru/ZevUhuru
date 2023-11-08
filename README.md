@@ -19,7 +19,7 @@ I love technology and research.
   - [esy.com][EsyHome] - ***Research Software.***
   - [clip.art][ClipArtHome] - ***Ecommerce platform selling Ai-generated clip art.***
   - [pro.tv][ProTV] - ***Professional tech videos.***
-  - [bankofdefi.com][BankHome] - ***TradFi+DeFi Management.***
+
 
 <!--
   - [wordtoken.com][WordTokenHome]  - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources***
@@ -29,8 +29,8 @@ I love technology and research.
  - [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars + LLMs for your brand***
  - [pkr.bet][PKR]  - ***Poker App***  
  - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi banking*** 
- - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources*** -->
- 
+ - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources*** 
+   - [bankofdefi.com][BankHome] - ***TradFi+DeFi Management.*** -->
 
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
