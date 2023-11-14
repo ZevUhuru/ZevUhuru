@@ -34,7 +34,7 @@ I love technology and research.
 
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [journal.esy.com][EsyAi] - ***I maintain esy Journal, where I publish writings on Ai + Research Methods.***
+- [journal.esy.com][EsyAi] - ***I maintain esy Journal, where I teach essay writers how to incorporate LLMs as a research method.***
 
 
 ## Technologies
