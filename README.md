@@ -17,7 +17,7 @@ I love technology and research.
 
 - [pro.tv][ProTV] - ***My professional tech videos, portfolio, and resume.***
 - [esy.com][EsyHome] - ***Essay writing software.***
-- clip.art][ClipArtHome] - ***Ecommerce platform for selling Ai-generated clip art.***
+- [clip.art][ClipArtHome] - ***Ecommerce platform for selling Ai-generated clip art.***
 
 
 
