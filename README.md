@@ -15,7 +15,7 @@ I love technology and research.
 ## Indie Portfolio (Dev, Copy, & Design)
 
 
-- [pro.tv][ProTV] - ***Professional tech videos.***
+- [pro.tv][ProTV] - ***Professional tech videos, portfolio, and resume.***
   - [esy.com][EsyHome] - ***Research Software.***
   - [clip.art][ClipArtHome] - ***Ecommerce platform selling Ai-generated clip art.***
 
