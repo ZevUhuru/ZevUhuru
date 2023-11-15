@@ -57,7 +57,7 @@ I love technology and research.
 <!-- SOCIALS -->
 
 
-[EsyHome]: https://www.esy.com/
+[EsyHome]: http://www.esy.com/
 [EsyJournal]: https://www.esy.com/@journal
 [EsyAi]: https://journal.esy.com
 [EsyEdu]: https://www.esy.com/@ai
