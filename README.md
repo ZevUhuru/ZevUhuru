@@ -6,7 +6,7 @@
 <!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1-year-old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
 
 
-I write essays at [esy.com][EsyHome], run the largest Ai-generated clip art site at [clip.art][ClipArtHome], and film pro tech videos at [pro.tv][ProTV]
+I write essays at [esy.com][EsyHome], run the world's largest Ai-generated clip art site at [clip.art][ClipArtHome], and film pro tech videos at [pro.tv][ProTV]
 
 ## Corporate Portfolio
 - [fubosportsnetwork.com][FSNHome] - ***I developed fuboTV's homegrown sports network streaming site from scratch using GatsbyJS***
