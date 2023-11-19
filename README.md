@@ -17,9 +17,9 @@ I'm developing my own essay writing software at [esy.com][EsyHome]
 
 
 
-- [pro.tv][ProTV] - ***My professional tech videos, portfolio, and resume.***
+- [pro.tv][ProTV] - ***Pro tech videos***
 - [esy.com][EsyHome] - ***Essay writing software.***
-- [clip.art][ClipArtHome] - ***Worlds Largest Ecommerce platform for selling Ai-generated clip art.***
+- [clip.art][ClipArtHome] - ***🌎 Largest Collection of Ai-generated clip art.***
 
 
 
