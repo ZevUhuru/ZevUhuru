@@ -36,7 +36,7 @@ I write essays at [esy.com][EsyHome], run the 🌎 largest Ai-generated [clip.ar
 
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [journal.esy.com][EsyAi] - ***I maintain esy Journal, where I publish tutorials on how to incorporate LLMs as a research method.***
+- [journal.esy.com][EsyAi] - ***I maintain esy Journal, where I publish case-studies and guides on how to incorporate LLMs as a research method.***
 
 
 ## Technologies
