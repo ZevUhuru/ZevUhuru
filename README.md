@@ -37,7 +37,7 @@ Building an ***Essay Writer*** with LLM integrations at [esy.com][EsyHome].
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 - [journal.esy.com][EsyAi] - ***I maintain esy Journal, where I publish case-studies and guides on how to incorporate LLMs as a research method.***
-
+- [bankofdefi.com][DEFI] - ***I maintain Bank of DeFi, where I write about my crypto trades.***
 
 ## Technologies
 
