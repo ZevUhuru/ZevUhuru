@@ -19,7 +19,7 @@ Building an ***Essay Writer*** with LLM integrations at [esy.com][EsyHome].
 
 - [esy.com][EsyHome] - ***Essay writing software.***
 - [clip.art][ClipArtHome] - ***🌎 Largest Collection of Ai-generated clip art.***
-- [pro.tv][ProTV] - ***Pro tech videos***
+<!-- [pro.tv][ProTV] - ***Pro tech videos*** -->
 
 
 <!--
