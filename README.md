@@ -19,7 +19,6 @@ Building an ***Essay Writer*** with LLM integrations at [esy.com][EsyHome].
 
 - [esy.com][EsyHome] - ***Essay writing software.***
 - [clip.art][ClipArtHome] - ***I host the 🌎 Largest Collection of Ai-generated clip art.***
-- [pro.tv][ProTV] - ***Raspberry Pi, Arduino, DIY Electronics Videos***
 
 
 <!--
@@ -36,6 +35,8 @@ Building an ***Essay Writer*** with LLM integrations at [esy.com][EsyHome].
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 - [journal.esy.com][EsyAi] - ***I maintain esy Journal, where I publish case-studies and guides on how to incorporate LLMs as a research method.***
+
+## Essays
 
 ## Technologies
 
