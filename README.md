@@ -34,8 +34,7 @@ Building **esy Journal**, a personal writing platform powered by advanced langua
 
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [journal.esy.com][EsyAi] - ***I maintain esy Journal, where I publish case-studies and guides on how to incorporate LLMs as a research method.***
-- [bankofdefi.com][BankHome] - ***Crypto Newsletter***
+- [esy.com/journal][EsyAi] - ***I maintain esy Journal, where I publish case-studies and guides on how to incorporate LLMs as a research method.***
 ## Essays
 
 ## Technologies
@@ -59,7 +58,7 @@ Building **esy Journal**, a personal writing platform powered by advanced langua
 
 [EsyHome]: http://www.esy.com/
 [EsyJournal]: https://www.esy.com/@journal
-[EsyAi]: https://journal.esy.com
+[EsyAi]: https://esy.com/journal
 [EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
 [WorkClientHome]: https://www.workclient.com
