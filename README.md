@@ -58,7 +58,7 @@ Building **esy Journal**, a personal writing platform powered by advanced langua
 
 
 [EsyHome]: http://www.esy.com/
-[esyJournal]: https:/journal.esy.com
+[esyJournal]: https://journal.esy.com
 [esySchool]: https://www.esy.com/school
 [EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
