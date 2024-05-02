@@ -34,8 +34,8 @@ Building **esy Journal**, a personal writing platform powered by advanced langua
 
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [esy.com/school][esySchool] - ***I maintain esy School, where I publish tutorials on Generative Ai and it's application in writing.***
-- [journal.esy.com][esyJournal] - ***I maintain esy Journal, where I publish case-studies and guides on how to incorporate LLMs as a research method.***
+- [esy.com/school][esySchool] - ***At esy School, I publish tutorials on Generative Ai and it's application in writing.***
+- [journal.esy.com][esyJournal] - ***I maintain a more technical journal at esy Journal, here I publish case-studies and guides on how to incorporate LLMs as a research method.***
 ## Essays
 
 ## Technologies
