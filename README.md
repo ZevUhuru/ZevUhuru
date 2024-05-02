@@ -18,7 +18,7 @@ Founded **esy Journal**, a personal writing platform powered by advanced languag
 
 
 - [esy.com][EsyHome] - ***Essay writing software.***
-- [clip.art][ClipArtHome] - ***I host the 🌎 Largest Collection of Ai-generated clip art.***
+- [clip.art][ClipArtHome] - ***The 🌎 Largest Collection of Ai-generated clip art.***
 
 
 <!--
