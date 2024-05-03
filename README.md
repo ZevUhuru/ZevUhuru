@@ -35,7 +35,7 @@ Founded **esy Journal**, a personal writing platform powered by advanced languag
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 - [esy.com/school][esySchool] - ***At esy School, I publish tutorials on Generative Ai and it's application in writing.***
-- [research.esy.com][esyJournal] - ***I maintain a more technical journal at esy Research, here I publish case-studies and guides on how to incorporate LLMs as a research method.***
+- [research.esy.com][esyResearch] - ***I maintain a more technical journal at esy Research, here I publish case-studies and guides on how to incorporate LLMs as a research method.***
 ## Essays
 
 ## Technologies
@@ -58,7 +58,7 @@ Founded **esy Journal**, a personal writing platform powered by advanced languag
 
 
 [EsyHome]: http://www.esy.com/
-[esyJournal]: https://journal.esy.com
+[esyResearch]: https://research.esy.com
 [esySchool]: https://www.esy.com/school
 [EsyEdu]: https://www.esy.com/@ai
 [WordTokenHome]: https://www.wordtoken.com
