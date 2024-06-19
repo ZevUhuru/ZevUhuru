@@ -1,4 +1,4 @@
-![Banner](https://www.esy.com/images/esy-brand-bg.webp)
+![Banner](https://media.licdn.com/dms/image/D5616AQER6Wd86zbYXA/profile-displaybackgroundimage-shrink_350_1400/0/1690507530623?e=1724284800&v=beta&t=jjwpMWL7ysWplmIT9AvT8jiJpUtsF4rIYQYBzl1gJgU)
 
 
 # Hi and Welcome, I'm Lem 🥷🏽💻
