@@ -1,4 +1,4 @@
-![Banner](https://pbs.twimg.com/profile_banners/1455917656528326671/1690506666/1500x500)
+![Banner](https://www.esy.com/images/esy-brand-bg.webp)
 
 
 # Hi and Welcome, I'm Lem 🥷🏽💻
