@@ -21,21 +21,12 @@ I'm developing a [**Personal Ai Essay Writer**][EsyHome] @ esy.com and the [**ðŸ
 - [clip.art][ClipArtHome] - ***The ðŸŒŽ Largest Collection of Ai-generated clip art.***
 
 
-<!--
-  - [wordtoken.com][WordTokenHome]  - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources***
-  - [workclient.com][WorkClientHome] - ***Self micro-management software and dynamic resume***
-  - [bankofdefi.com][BankHome] - ***Financial Management Software***
- - [orgolytics.com][OrgolyticsHome] @Orgolytics - ***Use LLMs to Evaluate Your Health Data***
- - [virtualmascot.com][VirtualMascotHome] @VirtualMascot - ***3D Avatars + LLMs for your brand***
- - [pkr.bet][PKR]  - ***Poker App***  
- - [bankofdefi.com][BankofDeFiHome] @BankofDeFi - ***DeFi banking*** 
- - [wordtoken.com][WordTokenHome] @WordToken - ***LLM Interface, Conversational Analysis, and Prompt Engineering Resources*** 
-   - [bankofdefi.com][BankHome] - ***TradFi+DeFi Management.*** -->
+
 
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [esy.com/school][esySchool] - ***At esy School, I publish tutorials on Generative Ai and it's application in writing.***
-- [journal.esy.com][esyJournal] - ***I maintain a more technical journal at esy Research, here I publish case-studies and guides on how to incorporate LLMs as a research method.***
+- [esy.com/school][esySchool] - ***At Esy School, I publish practical tutorials for applying Gen-Ai and Prompt Engineering in the context of essay writing.***
+- [journal.esy.com][esyJournal] - ***Software Engineering, Applied ML, and UX tutorials in the context of ESY.com feature development.***
 ## Essays
 
 ## Technologies
@@ -61,21 +52,10 @@ I'm developing a [**Personal Ai Essay Writer**][EsyHome] @ esy.com and the [**ðŸ
 [esyJournal]: https://journal.esy.com
 [esySchool]: https://www.esy.com/school
 [EsyEdu]: https://www.esy.com/@ai
-[WordTokenHome]: https://www.wordtoken.com
-[WorkClientHome]: https://www.workclient.com
-[OrgolyticsHome]: https://www.orgolytics.com
-[BankofDeFiHome]: https://www.bankofdefi.com
-[VirtualMascotHome]: https://www.VirtualMascot.com
-[TwitterProfile]: https://twitter.com/EsyJournal
-[ProTV]: https://www.pro.tv
-[ProTVNews]: https://www.pro.tv/newsletter
-[PKR]: https://www.pkr.bet
 [ClipArtHome]: https://www.clip.art/
 [LazyDevHome]: https://www.lazy.dev/
-[AbueloHome]: https://www.abuelo.ai
 
 [FSNHome]: https://www.fubosportsnetwork.com
 [FuboNews]: https://www.fubo.tv/news
 [FuboIR]: https://ir.fubo.tv
 [SUYC]: https://www.sellusyourcar.com
-[BankHome]: https://www.bankofdefi.com 
