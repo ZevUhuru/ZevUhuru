@@ -17,7 +17,7 @@ I'm developing a [**Personal Ai Essay Writer**][EsyHome] @ esy.com and the [**ðŸ
 
 
 
-- [esy.com][EsyHome] - ***Essay writing software.***
+- [esy.com][EsyHome] - ***You Personal Ai Essay Writer.***
 - [clip.art][ClipArtHome] - ***The ðŸŒŽ Largest Collection of Ai-generated clip art.***
 
 
