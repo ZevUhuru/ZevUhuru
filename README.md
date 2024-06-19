@@ -25,7 +25,7 @@ I'm developing a [**Personal Ai Essay Writer**][EsyHome] @ esy.com and the [**ðŸ
 
 ## Newsletter
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [esy.com/school][esySchool] - ***At Esy School, I publish practical tutorials for applying Gen-Ai and Prompt Engineering in the context of essay writing.***
+- [esy.com/school][esySchool] - ***Enhance your essay writing with AI and prompt engineering.***
 - [journal.esy.com][esyJournal] - ***Software Engineering, Applied ML, and UX tutorials in the context of ESY.com feature development.***
 ## Essays
 
