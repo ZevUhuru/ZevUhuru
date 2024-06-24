@@ -54,9 +54,9 @@
 [esyJournal]: https://journal.esy.com
 [esySchool]: https://www.esy.com/school
 [EsyEdu]: https://www.esy.com/@ai
-[ClipArtHome]: https://www.clip.art/
-[LazyDevHome]: https://www.lazy.dev/
-[WordTokenHome]: https://www.wordtoken.com/
+[ClipArtHome]: https://www.clip.art
+[LazyDevHome]: https://www.lazy.dev
+[WordTokenHome]: https://www.wordtoken.com
 
 [FSNHome]: https://www.fubosportsnetwork.com
 [FuboNews]: https://www.fubo.tv/news
