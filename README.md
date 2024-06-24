@@ -20,7 +20,7 @@
 
 - [esy.com][EsyHome] - ***You Personal Ai Essay Writer.***
 - [clip.art][ClipArtHome] - ***The 🌎 Largest Collection of Ai-generated clip art.***
-
+- [wordtoken.com][WordTokenHome] - ***Compare the capabilities and pricing of popular LLM's***
 
 
 
