@@ -28,6 +28,7 @@
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 - [esy.com/school][esySchool] - ***Enhance your essay writing with AI and prompt engineering tips delivered to your inbox.***
 - [journal.esy.com][esyJournal] - ***Software Engineering, Applied ML, and UX tutorials in the context of ESY.com feature development.***
+- [news.esy.com][EsyNews] - ***Esy News publishing easy to chew and digest Ai-news with Editorial Takes.***
 - [lazy.dev][LazyDevHome] - ***Developer and Marketing newsletter documenting my indie hacking goals***
 ## Essays
 
