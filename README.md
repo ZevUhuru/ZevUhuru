@@ -29,7 +29,7 @@
 - [Esy News][EsyNews] - ***Esy News publishes easy to chew and digest Ai-news with my Editorial Takes.***
 - [Esy School][esySchool] - ***Enhance your essay writing with AI and prompt engineering tips delivered to your inbox.***
 - [Esy Journal][esyJournal] - ***Software Engineering, Applied ML, and UX tutorials in the context of ESY.com feature development.***
-- [lazy.dev][LazyDevHome] - ***Developer and Marketing newsletter documenting my indie hacking goals***
+<!-- - [lazy.dev][LazyDevHome] - ***Developer and Marketing newsletter documenting my indie hacking goals*** -->
 ## Essays
 
 ## Technologies
