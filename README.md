@@ -24,7 +24,7 @@
 
 
 
-## Newsletter
+## Newsletters
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 - [Esy News][EsyNews] - ***Esy News publishes easy to chew and digest Ai-news with my Editorial Takes.***
 - [Esy School][esySchool] - ***Enhance your essay writing with AI and prompt engineering tips delivered to your inbox.***
