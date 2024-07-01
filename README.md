@@ -52,7 +52,7 @@
 
 
 [EsyHome]: http://www.esy.com/
-[EsyNews]: http://news.esy.com/
+[EsyNews]: https://www.esy.com/news
 [esyJournal]: https://journal.esy.com
 [esySchool]: https://www.esy.com/school
 [EsyEdu]: https://www.esy.com/@ai
