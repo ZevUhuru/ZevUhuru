@@ -26,7 +26,7 @@
 
 ## Newsletters
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
-- [Esy News][EsyNews] - ***Esy News publishes easy to chew and digest Ai-news with my Editorial Takes.***
+- [Essays by Esy][EsyEssays] - ***Essays by Esy publishes short and long-form essays on a variety of subjects.***
 - [Esy School][esySchool] - ***Enhance your essay writing with AI and prompt engineering tips delivered to your inbox.***
 - [Esy Journal][esyJournal] - ***Software Engineering, Applied ML, and UX tutorials in the context of ESY.com feature development.***
 <!-- - [lazy.dev][LazyDevHome] - ***Developer and Marketing newsletter documenting my indie hacking goals*** -->
@@ -52,7 +52,7 @@
 
 
 [EsyHome]: http://www.esy.com/
-[EsyNews]: https://www.esy.com/news
+[EsyEssays]: https://www.esy.com/essays
 [esyJournal]: https://journal.esy.com
 [esySchool]: https://www.esy.com/school
 [EsyEdu]: https://www.esy.com/@ai
