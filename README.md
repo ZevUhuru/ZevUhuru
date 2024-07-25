@@ -1,7 +1,7 @@
 ![Banner](https://media.licdn.com/dms/image/D5616AQER6Wd86zbYXA/profile-displaybackgroundimage-shrink_350_1400/0/1690507530623?e=1724284800&v=beta&t=jjwpMWL7ysWplmIT9AvT8jiJpUtsF4rIYQYBzl1gJgU)
 
 
-# Hi and Welcome, I'm Lem 🥷🏽💻
+# Hi and Welcome, I'm Zev 🥷🏽💻
 
 <!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1-year-old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
 
