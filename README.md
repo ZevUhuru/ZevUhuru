@@ -7,7 +7,7 @@
 
 
 1. I'm developing a research platform at [**esy.com**][EsyHome].
-2. I run the [**🌎 Largest Collection of Ai-generated ClipArt**][ClipArtHome] at clip.art.
+
 
 ## Corporate Portfolio
 - [fubosportsnetwork.com][FSNHome] - ***I developed fuboTV's homegrown sports network streaming site from scratch using GatsbyJS***
