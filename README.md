@@ -24,7 +24,7 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 
 
 ## Newsletters
-- [Esy Research][esyJournal] - ***Demystifying Large Language Models in Research Applications*** -->
+- [Esy Research][EsyResearch] - ***Demystifying Large Language Models in Research Applications*** 
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 <!-- [Essays by Esy][EsyEssays] - ***Essays by Esy publishes short and long-form essays on a variety of subjects.*** -->
 <!-- - [Esy School][esySchool] - ***Enhance your essay writing with AI and prompt engineering tips delivered to your inbox.***
@@ -54,6 +54,7 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 [EsyHome]: http://www.esy.com/
 [EsyEssays]: https://www.esy.com/essays
 [esyJournal]: https://journal.esy.com
+[EsyResearch]: https://esy.com/research
 [esySchool]: https://www.esy.com/school
 [EsyEdu]: https://www.esy.com/@ai
 [ClipArtHome]: https://www.clip.art
