@@ -19,7 +19,7 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 
 - [esy.com][EsyHome] - ***You Personal Ai Essay Writer.***
 - [clip.art][ClipArtHome] - ***The 🌎 Largest Collection of Ai-generated clip art.***
-- [wordtoken.com][WordTokenHome] - ***Compare the pricing by 'word tokens' of popular LLM's***
+<!-- - [wordtoken.com][WordTokenHome] - ***Compare the pricing by 'word tokens' of popular LLM's*** -->
 
 
 
