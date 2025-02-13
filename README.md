@@ -13,7 +13,7 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 - [fubo.tv/news][FuboNews] - ***I developed and launched fuboTV News using Ghost CMS from scratch***
 - [ir.fubo.tv][FuboIR] - ***I selected and managed the 3rd party development company and coordinated fuboTV's C-Level executives and other stakeholders to launch ir.fubo.tv from scratch.***
 - [SellUsYourCar.com][SUYC] - ***Previously, a fully standalone multi-route SPA purposed lead generator onboarded and prompted users for vehicle information to quote and sell their cars to https://www.vroom.com/sell***
-## Ai Assets (Dev, Copy, & Design by me)
+## Indie Portfolio (Dev, Copy, & Design by me)
 
 
 
