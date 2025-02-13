@@ -26,8 +26,8 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 ## Newsletters
 <!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
 - [Essays by Esy][EsyEssays] - ***Essays by Esy publishes short and long-form essays on a variety of subjects.***
-- [Esy School][esySchool] - ***Enhance your essay writing with AI and prompt engineering tips delivered to your inbox.***
-- [Esy Journal][esyJournal] - ***Software Engineering, Applied ML, and UX tutorials in the context of ESY.com feature development.***
+<!-- - [Esy School][esySchool] - ***Enhance your essay writing with AI and prompt engineering tips delivered to your inbox.***
+- [Esy Journal][esyJournal] - ***Software Engineering, Applied ML, and UX tutorials in the context of ESY.com feature development.*** -->
 <!-- - [lazy.dev][LazyDevHome] - ***Developer and Marketing newsletter documenting my indie hacking goals*** -->
 ## Essays
 
