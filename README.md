@@ -26,7 +26,7 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 ## Newsletters
 - [Esy School][EsySchool] - ***Consumer friendly tutorials for gaining proficiency with Esy***
 - [Esy Research][EsyResearch] - ***Demystifying Large Language Models (LLMs) in research applications***
-<!-- - [esy.com/@journal][EsyJournal] - ***Journal on all things Writing*** -->
+- [esy.com/@journal][EsyJournal] - ***A tech journal authored by me*** 
 <!-- [Essays by Esy][EsyEssays] - ***Essays by Esy publishes short and long-form essays on a variety of subjects.*** -->
 <!-- - [Esy School][esySchool] - ***Enhance your essay writing with AI and prompt engineering tips delivered to your inbox.***
 - [Esy Journal][esyJournal] - ***Software Engineering, Applied ML, and UX tutorials in the context of ESY.com feature development.*** -->
