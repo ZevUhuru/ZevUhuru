@@ -1,4 +1,4 @@
-![Banner](https://scontent.ffxe1-1.fna.fbcdn.net/v/t39.30808-6/362982457_2522099064634896_2480094237836920845_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=IgPHXB8RvAQQ7kNvgEbJbRY&_nc_ht=scontent.ffxe1-1.fna&oh=00_AYBywFZexA5nptLkEnRVjQrcNeD2l52q6rah4WqF3ya40A&oe=66DA9929)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQER6Wd86zbYXA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690507530623?e=1756944000&v=beta&t=c8Fx0PgsxPFAriISoqIZsbJhQYGG3BudwcNxjkTlyCI)
 
 
 # Hi and Welcome, I'm Zev 🥷🏽💻
