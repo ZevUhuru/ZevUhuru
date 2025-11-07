@@ -24,7 +24,7 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 
 
 ## Newsletters
-- [journal.esy.com][EsyJournal] - ***A technical journal covering the development of Esy, Agentic Workflows, and general AI.*** 
+- [research.esy.com][EsyResearch] - ***A technical journal covering the development of Esy, Agentic Workflows, and general AI.*** 
 
 
 ## Technologies
