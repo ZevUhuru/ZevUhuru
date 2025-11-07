@@ -49,7 +49,7 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 [EsyHome]: http://www.esy.com/
 [EsyEssays]: https://www.esy.com/essays
 [esyJournal]: https://journal.esy.com
-[EsyResearch]: https://esy.com/research
+[EsyResearch]: https://research.esy.com
 [esySchool]: https://www.esy.com/school
 [EsyEdu]: https://www.esy.com/@ai
 [ClipArtHome]: https://www.clip.art
