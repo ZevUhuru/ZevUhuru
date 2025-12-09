@@ -24,7 +24,10 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 
 
 ## Newsletters
-- [research.esy.com][EsyResearch] - ***A technical journal covering the development of Esy, Agentic Workflows, and general AI.*** 
+- [research.esy.com][EsyResearch] - ***A technical journal covering the development of Esy, Agentic Workflows, and general AI.***
+
+## Visual Essays by Esy.
+- https://www.esy.com/essays/visual/the-manhattan-project/ - ***The Manhattan Project***
 
 
 ## Technologies
