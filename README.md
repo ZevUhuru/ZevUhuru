@@ -28,6 +28,7 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome].
 
 ## Visual Essays by Esy.
 - https://www.esy.com/essays/visual/the-manhattan-project/ - ***The Manhattan Project***
+- https://www.esy.com/essays/visual/the-thinking-machine/ - ***The Thinking Machine***
 
 
 ## Technologies
