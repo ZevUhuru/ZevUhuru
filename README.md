@@ -27,8 +27,8 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome] which I us
 - [research.esy.com][EsyResearch] - ***A technical journal covering the development of Esy, Agentic Workflows, and general AI.***
 
 ## Visual Essays by Esy.
-- https://www.esy.com/essays/visual/the-manhattan-project/ - ***The Manhattan Project***
-- https://www.esy.com/essays/visual/the-thinking-machine/ - ***The Thinking Machine***
+- https://esy.com/essays/visual/the-manhattan-project/ - ***The Manhattan Project***
+- https://esy.com/essays/visual/the-thinking-machine/ - ***The Thinking Machine***
 
 
 ## Technologies
@@ -50,12 +50,12 @@ I'm developing a next-gen research platform at [**esy.com**][EsyHome] which I us
 <!-- SOCIALS -->
 
 
-[EsyHome]: http://www.esy.com/
-[EsyEssays]: https://www.esy.com/essays
+[EsyHome]: http://esy.com/
+[EsyEssays]: https://esy.com/essays
 [esyJournal]: https://journal.esy.com
 [EsyResearch]: https://research.esy.com
 [esySchool]: https://www.esy.com/school
-[EsyEdu]: https://www.esy.com/@ai
+[EsyEdu]: https://esy.com/@ai
 [ClipArtHome]: https://www.clip.art
 [LazyDevHome]: https://www.lazy.dev
 [WordTokenHome]: http://www.wordtoken.com
