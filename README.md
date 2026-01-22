@@ -17,7 +17,7 @@ I'm developing a platform for designing and developing agentic workflows at [**E
 
 
 
-- [esy.com][EsyHome] - ***Research Agent with Built-in Templates and Workflows***
+- [esy.com][EsyHome] - ***Agentic-workflow platform with Built-in Templates***
 - [clip.art][ClipArtHome] - ***The 🌎 Largest Collection of Ai-generated clip art.*** 
 <!-- - [wordtoken.com][WordTokenHome] - ***Compare the pricing by 'word tokens' of popular LLM's*** -->
 
