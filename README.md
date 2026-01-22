@@ -5,7 +5,7 @@
 
 <!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1-year-old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
 
-I'm developing a next-gen research platform at [**esy.com**][EsyHome] which I use to create Visual Essays.
+I'm developing a platform for designing and developing agentic workflows at [**esy.com**][EsyHome] which I use to create Visual Essays.
 
 
 ## Corporate Portfolio
