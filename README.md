@@ -24,7 +24,7 @@ I'm developing a platform for designing and developing agentic workflows at [**E
 
 
 ## Newsletters
-- [research.esy.com][EsyResearch] - ***A technical journal covering agentic-workflow designa & development.***
+- [research.esy.com][EsyResearch] - ***A technical journal covering agentic-workflow design & development.***
 
 ## Visual Essays by Esy.
 - https://esy.com/essays/visual/the-manhattan-project/ - ***The Manhattan Project***
