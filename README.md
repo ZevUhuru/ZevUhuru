@@ -25,7 +25,7 @@ I'm developing a platform for designing and developing agentic workflows at [**E
 
 ## Newsletters
 - [research.esy.com][EsyResearch] - ***A Substack newsletter covering Esy's agentic-workflow design & development approach.***
-- [engineering.esy.com][EsyEngineering] - ***A substack newsletter covering our engineering approach to app.esy.com***
+- [engineering.esy.com][EsyEngineering] - ***A Substack newsletter covering AI-engineering best practices and how we build Esy (Eh-see). ***
 
 ## Visual Essays by Esy.
 - https://esy.com/essays/visual/the-manhattan-project/ - ***The Manhattan Project***
