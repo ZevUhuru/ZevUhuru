@@ -55,6 +55,7 @@ I'm developing a platform for designing and developing agentic workflows at [**E
 [EsyEssays]: https://esy.com/essays
 [esyJournal]: https://journal.esy.com
 [EsyResearch]: https://research.esy.com
+[EsyEngineering]: https://engineering.esy.com
 [esySchool]: https://www.esy.com/school
 [EsyEdu]: https://esy.com/@ai
 [ClipArtHome]: https://www.clip.art
