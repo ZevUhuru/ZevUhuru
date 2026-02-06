@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQER6Wd86zbYXA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690507530623?e=1756944000&v=beta&t=c8Fx0PgsxPFAriISoqIZsbJhQYGG3BudwcNxjkTlyCI)
+![Banner](https://images.esy.com/brand/dark-navy-teal-cover.7283f39d6e.png)
 
 
 # Hi and Welcome, I'm Zev 🥷🏽💻
