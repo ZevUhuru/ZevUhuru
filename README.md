@@ -16,7 +16,7 @@ I design and ship agentic workflows — multi-model orchestration, template-driv
 
 
 
-- [esy.com][EsyHome] - ***A multi-model agentic platform (GPT-4, Claude, Gemini) that orchestrates citation-first research workflows through template-driven pipelines — turning user intent into structured, publishable artifacts.***
+- [esy.com][EsyHome] - ***Multi-model orchestration layer for academic research. Routes user queries through citation-first pipelines across GPT-4, Claude, and Gemini to generate structured, publish-ready output.***
 - [clip.art][ClipArtHome] - ***The 🌎 Largest Collection of Ai-generated clip art.*** 
 <!-- - [wordtoken.com][WordTokenHome] - ***Compare the pricing by 'word tokens' of popular LLM's*** -->
 
