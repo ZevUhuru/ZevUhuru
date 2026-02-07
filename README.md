@@ -29,7 +29,7 @@ I'm developing a platform for designing and developing agentic workflows at [**E
 ## Courses
 - https://esy.com/courses/how-to-use-claude-code/ - ***A Course on Getting Started with Claude Code***
 
-## Visual Essay Artifacts Produces with Esy Workflows.
+## Visual Essay Artifacts Produced with Esy Workflows.
 - https://esy.com/essays/visual/the-manhattan-project/ - ***The Manhattan Project***
 - https://esy.com/essays/visual/the-thinking-machine/ - ***The Thinking Machine***
 
