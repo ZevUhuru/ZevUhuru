@@ -62,7 +62,7 @@ I design and ship agentic workflows — multi-model orchestration, template-driv
 [EsyEdu]: https://esy.com/@ai
 [ClipArtHome]: https://www.clip.art
 [LazyDevHome]: https://www.lazy.dev
-[WordTokenHome]: http://www.wordtoken.com
+[EsyCourses]: http://esy.com/courses
 
 [FSNHome]: https://www.fubosportsnetwork.com
 [FuboNews]: https://www.fubo.tv/news
