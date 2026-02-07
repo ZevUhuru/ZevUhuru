@@ -5,7 +5,7 @@
 
 <!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1-year-old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
 
-I design and ship agentic workflows — multi-model orchestration, template-driven pipelines, and structured output systems. [**Esy.com**][EsyHome (Eh-see) is my primary case study: a production platform I built from zero, documented at research.esy.com, with courses on applied AI tooling at esy.com/courses.
+I design and ship agentic workflows — multi-model orchestration, template-driven pipelines, and structured output systems. [**Esy.com**][EsyHome] (Eh-see) is my primary case study: a production platform I built from zero, documented at [research.esy.com][EsyResearch], with courses on applied AI tooling at esy.com/courses.
 
 ## Corporate Portfolio
 - [fubosportsnetwork.com][FSNHome] - ***I developed fuboTV's homegrown sports network streaming site from scratch using GatsbyJS***
