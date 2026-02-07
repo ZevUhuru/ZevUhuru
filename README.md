@@ -17,7 +17,7 @@ I design and ship agentic workflows — multi-model orchestration, template-driv
 
 
 - [esy.com][EsyHome] - ***Multi-model orchestration layer for academic research. Template-driven workflows route user queries through citation-first pipelines across GPT-4, Claude, and Gemini to produce structured, publish-ready output.***
-- [clip.art][ClipArtHome] - ***The 🌎 Largest Collection of Ai-generated clip art.*** 
+- [clip.art][ClipArtHome] - ***The web's largest AI-generated clip art library. Built with batch processing pipelines, prompt engineering, and scalable content taxonomy systems.*** 
 <!-- - [wordtoken.com][WordTokenHome] - ***Compare the pricing by 'word tokens' of popular LLM's*** -->
 
 
