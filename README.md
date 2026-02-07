@@ -31,8 +31,9 @@ a workflow-driven AI platform that turns intent into finished, publishable artif
 - https://esy.com/courses/how-to-use-claude-code/ - ***A Course on Getting Started with Claude Code***
 
 ## Visual Essay Artifacts Produced with Esy Workflows.
-- https://esy.com/essays/visual/the-manhattan-project/ - ***The Manhattan Project***
-- https://esy.com/essays/visual/the-thinking-machine/ - ***The Thinking Machine***
+- https://esy.com/essays/the-manhattan-project/ - ***The Manhattan Project***
+- https://esy.com/essays/the-thinking-machine/ - ***The Thinking Machine***
+- https://esy.com/essays/etymology/the-word-essay/ - ***An Etymology History Essay on the Word Essay***
 
 
 ## Technologies
