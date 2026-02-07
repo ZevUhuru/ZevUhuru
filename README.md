@@ -22,10 +22,10 @@ I design and ship agentic workflows; multi-model orchestration, template-driven 
 
 
 
-## Esy Research Newsletter
+## Newsletters
 - [research.esy.com][EsyResearch] - ***A Substack newsletter covering Esy's agentic-workflow design & development approach.***
 
-## Esy Courses
+## Courses
 - https://esy.com/courses/how-to-use-claude-code/ - ***A Course on Getting Started with Claude Code***
 
 ## Visual Essay Artifacts Produced with Esy Workflows.
