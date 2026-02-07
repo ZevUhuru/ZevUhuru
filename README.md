@@ -5,7 +5,7 @@
 
 <!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1-year-old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
 
-I'm design, develop, and deploy agentic workflows at  [**Esy.com**][EsyHome] (Eh-see).
+I design, develop, and deploy agentic workflows at  [**Esy.com**][EsyHome] (Eh-see).
 
 
 ## Corporate Portfolio
