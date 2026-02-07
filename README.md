@@ -22,7 +22,7 @@ I design and ship agentic workflows; multi-model orchestration, template-driven 
 
 
 
-## Newsletters
+## Esy Research Newsletter
 - [research.esy.com][EsyResearch] - ***A Substack newsletter covering Esy's agentic-workflow design & development approach.***
 
 ## Courses
