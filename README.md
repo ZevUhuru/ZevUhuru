@@ -25,7 +25,9 @@ I'm developing a platform for designing and developing agentic workflows at [**E
 
 ## Newsletters
 - [research.esy.com][EsyResearch] - ***A Substack newsletter covering Esy's agentic-workflow design & development approach.***
-- [engineering.esy.com][EsyEngineering] - ***A Substack newsletter covering AI-engineering best practices and how we build Esy (Eh-see).***
+
+## Courses
+- https://esy.com/courses/how-to-use-claude-code/ - ***A Course on Getting Started with Claude Code***
 
 ## Visual Essays by Esy.
 - https://esy.com/essays/visual/the-manhattan-project/ - ***The Manhattan Project***
