@@ -1,4 +1,4 @@
-![Banner](https://yt3.googleusercontent.com/33GSO-LWLPTwDtTBKgTB8y3rMWc9GzdYAOAT-dwJrtRplxT3D6tIAq-smkQBbMJ6sZAcbsC_pw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![Banner](https://substackcdn.com/image/fetch/$s_!7Ic9!,e_trim:10:white/e_trim:10:transparent/h_72,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc626237-1df8-441d-a08e-23a87cbeaebb_1344x256.png)
 
 
 # Hi and Welcome, I'm Zev 🥷🏽💻
