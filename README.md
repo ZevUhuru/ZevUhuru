@@ -1,4 +1,3 @@
-![Banner](https://substackcdn.com/image/fetch/$s_!7Ic9!,e_trim:10:white/e_trim:10:transparent/h_72,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc626237-1df8-441d-a08e-23a87cbeaebb_1344x256.png)
 
 
 # Hi and Welcome, I'm Zev 🥷🏽💻
