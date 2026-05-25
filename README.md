@@ -17,19 +17,16 @@ I design, develop, and deploy agentic workflows; multi-model orchestration, temp
 
   
 - [SellUsYourCar.com][SUYC] - ***Previously, a fully standalone multi-route SPA purposed lead generator onboarded and prompted users for vehicle information to quote and sell their cars to https://www.vroom.com/sell*** (deprecated) 
+
+
 ## Applied Research
 
-
-
-- [esy.com][EsyHome] - ***Multi-model orchestration layer for academic research. Template-driven workflows route user queries through citation-first pipelines to produce structured, publish-ready output.***
+- [esy.com][EsyHome] - ***Agentic workflow infrastructure for producing durable, auditable artifacts. Esy powers multi-step research, generation, review, and provenance pipelines across products and operator workflows.***
 
   
-<!-- - [lazy.dev][LazyDevHome] - ***Bite-sized Claude Code video tutorial platform. Static Next.js site with Mux video delivery, Beehiiv newsletter integration, and Claude-branded design system.*** -->
+- [clip.art][ClipArtHome] - ***AI-generated clip art, coloring page, illustration, and animation library powered by Esy’s agentic content infrastructure. Built on workflow-driven generation, review, storage, taxonomy, and scalable batch production systems.***
 
-  
-- [clip.art][ClipArtHome] - ***The web's largest AI-generated clip art library. Built with batch processing pipelines, prompt engineering, and scalable content taxonomy systems.***
-
-- [seopage.com][SEOPage] - ***SEO Page Generator. Built using Esy.com agentic research and workflow platform.***
+- [seopage.com][SEOPage] - ***SEO page generation platform powered by Esy’s agentic research and workflow infrastructure. Performs market research, competitor analysis, keyword mapping, and content planning to produce pages designed to rank on Google and appear in AI Overviews.***
 
 
 
