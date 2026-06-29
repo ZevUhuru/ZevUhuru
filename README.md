@@ -31,7 +31,7 @@ I design, develop, and deploy agentic workflows; multi-model orchestration, temp
 
 
 ## Newsletters
-- [synthesize.esy.com][EsyResearch] - ***Newsletter on applied AI engineering. Covers agentic workflow architecture, AI coding tools, and research methods. Video editions at [youtube.com/@EsyDotCom][EsyResearchYT].***
+- [esy.com/research][EsyResearch] - ***Newsletter on applied AI engineering. Covers agentic workflow architecture, AI coding tools, and research methods. Video editions at [youtube.com/@EsyDotCom][EsyResearchYT].***
 
 ## Courses
 - https://esy.com/courses/how-to-use-claude-code/ - ***A Course on Getting Started with Claude Code***
