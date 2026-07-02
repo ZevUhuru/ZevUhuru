@@ -26,7 +26,7 @@ I design, develop, and deploy agentic workflows; multi-model orchestration, temp
   
 - [clip.art][ClipArtHome] - ***AI-generated clip art, coloring page, illustration, and animation library powered by Esy’s agentic content infrastructure. Built on workflow-driven generation, review, storage, taxonomy, and scalable batch production systems.***
 
-- [seopage.com][SEOPage] - ***SEO page generation platform powered by Esy’s agentic research and workflow infrastructure. Performs market research, competitor analysis, keyword mapping, and content planning to produce pages designed to rank on Google and appear in AI Overviews.***
+- [seo.page][SEOPage] - ***SEO page generation platform powered by Esy’s agentic research and workflow infrastructure. Performs market research, competitor analysis, keyword mapping, and content planning to produce pages designed to rank on Google and appear in AI Overviews.***
 
 
 
