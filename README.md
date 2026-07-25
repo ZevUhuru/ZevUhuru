@@ -30,7 +30,7 @@ I design, develop, and deploy agentic workflows; multi-model orchestration, temp
 
 
 
-## Newsletters
+## The Agentic Engineer
 - [esy.com/agentic][EsyResearch] - ***Newsletter on applied AI engineering. Covers agentic workflow architecture, AI coding tools, and research methods. Video editions at [youtube.com/@EsyDotCom][EsyResearchYT].***
 
 ## Courses
