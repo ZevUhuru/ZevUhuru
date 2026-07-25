@@ -4,7 +4,7 @@
 
 <!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1-year-old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
 
-I design, develop, and deploy agentic workflows; multi-model orchestration, template-driven pipelines, and structured output systems. [**Esy.com**][EsyHome] (Eh-see) is my primary case study: a production platform I built from zero, documented at [esy.com/research][EsyResearch], my technical newsletter.
+I design, develop, and deploy agentic workflows; multi-model orchestration, template-driven pipelines, and structured output systems. [**Esy.com**][EsyHome] (Eh-see) is my primary case study: a production platform I built from zero, documented at The Agentic Newsletter where I release daily videos, [esy.com/agentic][EsyResearch].
 
 ## Corporate Portfolio
 - [fubosportsnetwork.com][FSNHome] - ***I developed fuboTV's homegrown sports network streaming site from scratch using GatsbyJS***
@@ -31,7 +31,7 @@ I design, develop, and deploy agentic workflows; multi-model orchestration, temp
 
 
 ## Newsletters
-- [esy.com/research][EsyResearch] - ***Newsletter on applied AI engineering. Covers agentic workflow architecture, AI coding tools, and research methods. Video editions at [youtube.com/@EsyDotCom][EsyResearchYT].***
+- [esy.com/agentic][EsyResearch] - ***Newsletter on applied AI engineering. Covers agentic workflow architecture, AI coding tools, and research methods. Video editions at [youtube.com/@EsyDotCom][EsyResearchYT].***
 
 ## Courses
 - https://esy.com/courses/how-to-use-claude-code/ - ***A Course on Getting Started with Claude Code***
