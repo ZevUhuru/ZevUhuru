@@ -31,7 +31,7 @@
 
 
 ## The Agentic Engineer Newsletter
-- [esy.com/agentic][EsyResearch] - ***Newsletter on applied AI engineering. Covers agentic workflow architecture, AI coding tools, and research methods. Video editions at [youtube.com/@EsyDotCom][EsyResearchYT].***
+- [esy.com/agentic][EsyResearch] - ***Newsletter on applied AI engineering in the context of building and selling digital products. Covers agentic workflow architecture, AI coding tools, and Marketing. Video editions at [youtube.com/@EsyDotCom][EsyResearchYT].***
 
 ## Courses
 - https://esy.com/courses/how-to-use-claude-code/ - ***A Course on Getting Started with Claude Code***
