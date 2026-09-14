@@ -29,10 +29,6 @@
 - [seo.page][SEOPage] - ***SEO page generation platform powered by Esy’s agentic research and workflow infrastructure. Performs market research, competitor analysis, keyword mapping, and content planning to produce pages designed to rank on Google and appear in AI Overviews.***
 
 
-- [indie.game][IndieGame] - ***Paid Leaderboard to Promote Vibe Coder Games - Pay $5 more than the leading level and rank #1***
-
-
-
 ## The Marketing Engineer Newsletter
 - [esy.com][EsyResearch] - ***Newsletter on applied AI engineering in the context of building and selling digital products. Covers agentic workflow architecture, AI coding tools, and Marketing. Video editions at [youtube.com/@EsyDotCom][EsyResearchYT].***
 
