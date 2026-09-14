@@ -21,7 +21,7 @@
 
 ## Applied Research
 
-- [os.esy.com][EsyHome] - ***Agentic workflow infrastructure for producing durable, auditable artifacts. Esy powers multi-step research, generation, review, and provenance pipelines across products and operator workflows.***
+- [os.esy.com][ESYOS] - ***Agentic workflow infrastructure for producing durable, auditable artifacts. Esy powers multi-step research, generation, review, and provenance pipelines across products and operator workflows.***
 
   
 - [clip.art][ClipArtHome] - ***AI-generated clip art, coloring page, illustration, and animation library powered by Esy’s agentic content infrastructure. Built on workflow-driven generation, review, storage, taxonomy, and scalable batch production systems.***
