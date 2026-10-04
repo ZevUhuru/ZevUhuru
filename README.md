@@ -4,7 +4,7 @@
 
 <!-- A born and raised NYC dev from Queens, I recently moved to Miami, FL with my wife and 1-year-old daughter to escape the cold winters but am now missing out on all of the great NYC food options :(, it's okay, the doordash bill is now manageable and my wife is an excellent chef!! :p -->
 
- I design, develop, and deploy agentic workflows that help businesses automate their marketing and increase conversions. [**os.esy.com**][EsyOS] (Esy OS) is my primary case study: a production platform I built from zero, documented at ***The Marketing Engineer*** [esy.com][EsyHome].
+ I design, develop, and deploy agentic workflows that help businesses automate their marketing and increase conversions. [**os.esy.com**][EsyOS] (Esy OS) is how I do it, an agentic operating system that connects with a clients Google Search Console, Google Analytics, Google Ads, Meta Ads and other social media platforms to capture key metrics that are used to influence ad-creative and content marketing output. I document how we do this in ***The Marketing Engineer*** [esy.com][EsyHome].
 
 ## Corporate Portfolio
 - [fubosportsnetwork.com][FSNHome] - ***I developed fuboTV's homegrown sports network streaming site from scratch using GatsbyJS***
